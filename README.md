@@ -56,4 +56,6 @@ Throughout this tutorial, we will build a website by pulling data and images fro
 - **Installation**: Provides clear steps on how to clone, install, and run the project locally.
 - **Conclusion**: Encourages users to explore and customize the project.
 
+- "Check out the live demo of the project hosted on Vercel:https://food-app-six-omega.vercel.app/
+
 
